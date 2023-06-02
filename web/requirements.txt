@@ -1,0 +1,6 @@
+fastapi==0.95.2
+psycopg2-binary
+pydub
+python-multipart
+SQLAlchemy
+uvicorn
